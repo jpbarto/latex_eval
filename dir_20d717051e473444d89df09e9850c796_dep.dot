@@ -1,0 +1,6 @@
+digraph "mypkg" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  dir_20d717051e473444d89df09e9850c796 [shape=box, label="mypkg", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_20d717051e473444d89df09e9850c796.html"];
+}
